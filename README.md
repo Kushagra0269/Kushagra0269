@@ -29,5 +29,22 @@ I am a Civil Engineering student interested in structural engineering, BIM, infr
 - Construction Management
 - Smart Infrastructure
 
+## 2026 Learning Roadmap
+
+### Software Skills
+- [ ] AutoCAD
+- [ ] Revit
+- [ ] ETABS
+- [ ] Primavera P6
+
+### Projects
+- [ ] Residential BIM Project
+- [ ] Construction Scheduling Project
+
+### Goals
+- [ ] Build technical portfolio
+- [ ] Prepare for GATE CE
+- [ ] Complete 2 major projects
+
 ## Learning Progress
 Starting my civil engineering software journey in 2026.
