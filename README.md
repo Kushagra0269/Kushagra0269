@@ -1,21 +1,33 @@
-# Hi, I'm Kushagra 👋
+# Hi, I'm Kushagra Tiwari 👋
 
-Civil Engineering Student | GATE CE Aspirant
+Civil Engineering Undergraduate | GATE CE Aspirant
+
+## About Me
+I am a Civil Engineering student interested in structural engineering, BIM, infrastructure development, and construction management. I am currently building skills in engineering software and project-based learning alongside my academics.
 
 ## Currently Learning
 - AutoCAD
 - Revit
 - ETABS
 - Primavera P6
+- Construction Planning
 
-## Interests
+## Goals
+- Build practical civil engineering projects
+- Develop industry-relevant software skills
+- Prepare for GATE Civil Engineering
+- Build a strong technical portfolio
+
+## Upcoming Projects
+🚧 G+4 Residential Building BIM and Structural Analysis Project
+
+🚧 Construction Planning and Scheduling Project
+
+## Areas of Interest
 - Structural Engineering
 - BIM
 - Construction Management
-- Infrastructure
+- Smart Infrastructure
 
-## Projects
-Coming Soon 🚧
-
-## Contact
-LinkedIn: Add later
+## Learning Progress
+Starting my civil engineering software journey in 2026.
